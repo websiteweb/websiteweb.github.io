@@ -1,0 +1,28 @@
+.exam {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  text-align: center;
+  font-family: myFirstFont, myFirstFont2;
+
+
+}
+.exam>div{
+ border-radius: 1em;
+ border: 3px solid rgb(0, 0, 0);
+ padding: 10px;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(KgMissKindergarten-9v7j.ttf);
+}
+@font-face {
+  font-family: myFirstFont2;
+  src: url(BNazanin.ttf);
+}
+a:link {
+  text-decoration: none;
+}
