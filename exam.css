@@ -26,3 +26,35 @@
 a:link {
   text-decoration: none;
 }
+
+#id{
+
+background-image: url(2.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover  ;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#id2{
+
+background-image: url(1.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover  ;
+
+}
+
+
+#id3{
+
+background-image: url(3.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover  ;
+
+}
